@@ -1,6 +1,6 @@
 # Algorithm_04
 
-1. Model 01
+##1. Model 01
 
 1-1. Model 1: 3Layers with 1 Convolution layer
 
@@ -32,7 +32,7 @@
 
 
 
-2. Model 02
+##2. Model 02
 
 2-1. Model 2: 3Layers with 1 Convolution layer
 
@@ -63,7 +63,7 @@
 
 
 
-3. Model 03
+##3. Model 03
 
 3-1. Model 3: 3Layers with 1 Convolution layer
 
